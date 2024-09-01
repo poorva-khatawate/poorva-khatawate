@@ -73,8 +73,8 @@
 ### ⚙️ &nbsp;GitHub Commits and Contributions
 
 <p align="center">
-  <a href="https://github.com/<your-username>">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=<your-username>&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+  <a href="https://github.com/poorva-khatawate">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=poorva-khatawate&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
   </a>
 </p>
 
