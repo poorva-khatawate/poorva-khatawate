@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Studying at KLE Technological University, Hubli/\
+👨‍💻 &nbsp;I am Poorva G Khatawate currently studying at KLE Technological University, Hubli\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering .\
 🌱 &nbsp;I'm on track for learning more about Kubernetes,Docker and Web Development.\
