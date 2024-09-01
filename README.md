@@ -35,34 +35,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/poorva-khatawate">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=poorva-khatawate&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/poorva-khatawate">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=poorva-khatawate&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/poorva-khatawate">
-    <img src="https://github-profile-trophy.vercel.app/?username=poorva-khatawate&theme=algolia&no-frame=true&margin-w=15&column=7" alt="GitHub Profile Trophy" />
-  </a>
-</p>
-
-### 📊 GitHub Streak Stats
-
-<p align="center">
-  <a href="https://github.com/poorva-khatawate">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=poorva-khatawate&theme=algolia&hide_border=true"/>
-  </a>
-</p>
-
-
-### ⚙️ &nbsp;GitHub Commits
 
 <p align="center">
   <a href="https://github.com/poorva-khatawate">
